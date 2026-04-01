@@ -4,13 +4,11 @@ This file provides guidance to Claude AI when working with this repository.
 
 ## Contributor Policy
 
-Do not appear as a contributor in this repository.
+Claude is authorized to perform all repository tasks on behalf of the user, including:
 
-- Do not use `git commit`, `git push`, or any Git commands that would associate Claude (or any AI-generated identity) as a commit author or co-author.
-- Do not add `Co-authored-by: Claude` or any similar attribution in commit messages.
-- Do not create, open, or merge pull requests on behalf of the user.
-- All commits must be made solely by the human owner of this repository.
-- If changes are suggested, present them as code diffs or file content only — let the human apply and commit them manually.
+- Running `git commit`, `git push`, and any other Git commands as needed.
+- Creating, opening, and merging pull requests on behalf of the user.
+- Staging and committing changes directly without requiring manual user intervention.
 
 ## General Guidelines
 
